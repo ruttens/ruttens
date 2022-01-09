@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ruttens
+- 👀 I’m interested in any B2B and marketing-related topic, trends, content
+- 🌱 I’m currently learning more about the coding, developers, engineers and architects world and what they need in 2022 in terms of marketing content (asset, channel, guides, videos, webinars, calculators etc)
+- 💞️ I’m looking to collaborate on B2B and marketing-related topic, trends, content, as well as how tech/engineering teams are working together to define & improve how APIs and software help customers
+- 📫 How to reach me: www.linkedin.com/in/ruttens , phil&ruttens.com www.ruttens.com or on my GitHub profile of course
